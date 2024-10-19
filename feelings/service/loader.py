@@ -14,7 +14,7 @@ def load_yaml(file_path: str) -> dict:
 
 
 def get_feelings() -> dict:
-    return load_yaml("model/feelings.yaml")["feelings"]
+    return load_yaml("feelings/data/feelings_db.yaml")["feelings"]
 
 
 FEELINGS = get_feelings()
