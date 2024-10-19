@@ -1,0 +1,128 @@
+feelings:
+  bad:
+    bored:
+      indifferent: "😐"
+      apathetic: "😶"
+    busy:
+      rushed: "🏃"
+      pressured: "📋"
+    stressed:
+      out_of_control: "🚨"
+      overwhelmed: "😵"
+    tired:
+      sleepy: "😴"
+      unfocused: "🥱"
+  sad:
+    lonely:
+      isolated: "🚶"
+      abandoned: "🌧️"
+    vulnerable:
+      victimized: "🎯"
+      fragile: "🍂"
+    depressed:
+      empty: "🕳️"
+      inferior: "⬇️"
+    despair:
+      grief: "🖤"
+      powerless: "🔋"
+    hurt:
+      embarrassed: "😳"
+      disappointed: "😔"
+    guilty:
+      ashamed: "😣"
+      remorseful: "😢"
+  disgusted:
+    repelled:
+      hesitant: "🤔"
+      horrified: "😨"
+    awful:
+      nauseated: "🤢"
+      revulsed: "🤮"
+    disappointed:
+      revolted: "😖"
+      appalled: "😱"
+    disapproving:
+      judgmental: "🧐"
+      contemptuous: "😤"
+  angry:
+    critical:
+      dismissive: "🙄"
+      skeptical: "🤨"
+    distant:
+      numb: "🧊"
+      withdrawn: "🧍"
+    frustrated:
+      annoyed: "😠"
+      infuriated: "🤬"
+    aggressive:
+      hostile: "👊"
+      provoked: "⚡"
+    mad:
+      jealous: "😡"
+      furious: "🔥"
+    bitter:
+      indignant: "😒"
+      violated: "🚫"
+    humiliated:
+      ridiculed: "😳"
+      disrespected: "🙁"
+    let_down:
+      betrayed: "💔"
+      resentful: "😤"
+  fearful:
+    threatened:
+      exposed: "👀"
+      nervous: "😬"
+    rejected:
+      excluded: "🚪"
+      persecuted: "⚖️"
+    weak:
+      insignificant: "⬇️"
+      worthless: "🗑️"
+    insecure:
+      inadequate: "😟"
+      inferior: "😞"
+    anxious:
+      worried: "😰"
+      overwhelmed: "😓"
+    scared:
+      frightened: "😱"
+      helpless: "🫨"
+  surprised:
+    startled:
+      shocked: "😲"
+      dismayed: "😧"
+    confused:
+      disillusioned: "😕"
+      perplexed: "🤔"
+    amazed:
+      astonished: "😮"
+      awed: "😯"
+    excited:
+      eager: "🤩"
+      energetic: "⚡"
+  happy:
+    joyful:
+      liberated: "🎉"
+      ecstatic: "🥳"
+    interested:
+      amused: "😄"
+      inquisitive: "🔍"
+    proud:
+      important: "🌟"
+      confident: "💪"
+    accepted:
+      respected: "🤝"
+      fulfilled: "✅"
+    powerful:
+      courageous: "🦁"
+      provocative: "🔥"
+    peaceful:
+      loving: "❤️"
+      hopeful: "🌅"
+    intimate:
+      sensitive: "🩵"
+      playful: "🎈"
+    optimistic:
+      open: "🌤️"
+      inspired: "💡"
