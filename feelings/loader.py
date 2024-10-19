@@ -1,6 +1,7 @@
 from functools import lru_cache
 from typing import Dict, Any, Optional, Union, List
 import yaml
+import os
 
 
 class FeelingNotFound(Exception):
@@ -14,7 +15,9 @@ def load_yaml(file_path: str) -> dict:
 
 
 def get_feelings() -> dict:
-    return load_yaml("feelings/data/feelings_db.yaml")["feelings"]
+    current_folder_path = os.path.dirname(os.path.abspath(__file__))
+    db_path = os.path.join(current_folder_path, "feelings_db.yaml")
+    return load_yaml(db_path)["feelings"]
 
 
 FEELINGS = get_feelings()

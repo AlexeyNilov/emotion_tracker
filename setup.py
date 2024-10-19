@@ -1,7 +1,7 @@
 from setuptools import find_packages
 from setuptools import setup
 
-VERSION = "0.0.11"
+VERSION = "0.0.12"
 DESCRIPTION = "Feelings DB"
 
 # Setting up
